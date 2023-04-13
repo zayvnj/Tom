@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 cr ダ source 」──
+    ──「 ダ zain 」──
 </h2>
 
 <p align="center">
