@@ -66,15 +66,15 @@ HELP_4 = """🍒 **<u>ʙʀᴏᴀᴅᴄᴀsᴛ ғᴇᴀᴛᴜʀᴇ</u>** [ᴏɴʟ
 """
 HELP_5 = """⚡<u>⌞ 𝘾𝙍 • 𝙎𝙊𝙐𝙍𝘾𝙀 ⌝مطورين :</u>
 
-[ᯓ𓆩˹ ََ𝙏َِ𝙊َِ𝙈ِ ،ِّّ⸙⛥َٰ ( ٍّالبشمبرمج)⏤‌𓆃](https://t.me/DEV_TOM)
+[zain](https://t.me/JNUJJ)
 
-[ᯓ𓆩˹◉ρ᥆kᥱꪔ᥆ꪀ«ممول» ⚝ َٰ𝙎 ❨ᴧꝛᴛᴇx❩ ˼𓆪𓆃](https://t.me/C1_I_I)
+[حبوبيبي](https://t.me/ai2mu)
 
-[𓌹 ↱ كــيـنـج صــاحـب الــغـداريـن ↲ 𓌺](https://t.me/TR_E2S_ON_MY_MOoN)
+[عبيد](https://t.me/g9_ec)
 
-[ᯓ𓆩˹◉ ꪔᥲ️ꪀ᥆᥆ ⚝ َٰ❨𝙎❩ ❨ᴧꝛᴛᴇx❩ ˼𓆪𓆃](https://t.me/DEV_TOM)
+[عبدالحي](https://t.me/su_per1)
 
-[𝙲 . 𝚁 . 𝙸 . 𝚂 . 𝚃 . 𝙸 . 𝙽 ](https://t.me/dr_criss)
+[حسون](https://t.me/hasuny)
 
 
 
